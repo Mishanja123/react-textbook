@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-textbook/static/css/main.5763847e.css",
+    "main.js": "/react-textbook/static/js/main.f243765a.js",
+    "index.html": "/react-textbook/index.html",
+    "main.5763847e.css.map": "/react-textbook/static/css/main.5763847e.css.map",
+    "main.f243765a.js.map": "/react-textbook/static/js/main.f243765a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5763847e.css",
+    "static/js/main.f243765a.js"
+  ]
+}
